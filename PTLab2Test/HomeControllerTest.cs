@@ -105,8 +105,8 @@ namespace PTLab2Test
 
             var user = new User()
             {
-                Mail = "123",
-                Password = "123",
+                Mail = "12345",
+                Password = "12345",
             };
 
             db.Users.Add(user);
